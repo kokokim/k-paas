@@ -12,5 +12,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 //        되냐?
         //옹야야양
+        //깃테스트
     }
 }
